@@ -3,7 +3,7 @@
 The dataset for the project has been downloaded from the UCI Machine Learning Repository. https://archive.ics.uci.edu/ml/datasets/AI4I+2020+Predictive+Maintenance+Dataset
 
 The AI4I 2020 Predictive Maintenance Dataset is a synthetic dataset that reflects real predictive maintenance data encountered in industry.
-It is a multi-variate classification Dataset.
+It is a multi-variate classification Dataset. It is used to predict the machine failure.
 
 Number of Instances: 10000
 
